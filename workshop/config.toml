@@ -11,6 +11,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 uglyurls = false
+canonifyURLs = true
 sectionPagesMenu = "main"
 pygmentsCodeFences = true
 pygmentsStyle = "monokai"
